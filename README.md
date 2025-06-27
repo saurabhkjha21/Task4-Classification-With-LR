@@ -69,9 +69,9 @@ Where `z = w·x + b`, and `σ(z)` gives the probability of the positive class.
 ##  Author
 
 **Saurabh Kumar Jha** 
-GitHub: [@saurabhkjha](https://github.com/saurabhkjha)  
-LinkedIn: [linkedin.com/in/saurabhkjha](https://linkedin.com/in/saurabhkjha)  
-Email: saurabhkjha@email.com
+GitHub: [@saurabhkjha](https://github.com/saurabhkjha21)  
+LinkedIn: [linkedin.com/in/saurabhkjha](https://linkedin.com/in/saurabhkjha21)  
+Email: saurabhkjha21@email.com
 
 ---
 
